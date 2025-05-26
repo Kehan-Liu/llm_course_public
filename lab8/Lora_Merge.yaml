@@ -2,7 +2,7 @@
 
 ### model
 model_name_or_path: /ssdshare/share/Meta-Llama-3-8B-Instruct #Base model path
-adapter_name_or_path: /gfshome/LLaMA-Factory/saves/Llama-3-8B-Instruct/lora/train_2025-05-15-10-59-45 #Lora adapter path ***Please fullfill your own path here***
+adapter_name_or_path: /gfshome/LLaMA-Factory/saves/Llama-3-8B-Instruct/lora/train_2025-05-18-10-18 #Lora adapter path ***Please fullfill your own path here***
 template: llama3
 finetuning_type: lora
 
